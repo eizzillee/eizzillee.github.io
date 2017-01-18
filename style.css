@@ -34,12 +34,13 @@ h1 {
   color: blue;
   font-family: 'Dancing Script', cursive;
 }
-.caption {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-size: 15px;
+h2 {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
 }
 h3 {
-  font-size: 10px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
 }
 .rating {
   font-size: 0.4em;
